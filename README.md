@@ -2,7 +2,8 @@
 
 The chosen dataset consists of the news articles focusing on advancements in generative AI, including breakthroughs in technologies like GPT models, their applications in education and business communication, and industry trends such as competition among AI companies. Each record is a self-contained text field, formatted with the year, a brief description of the news, and the source. This dataset is particularly appropriate for the task as it directly aligns with the focus on generative AI, covers diverse and credible topics, and provides well-structured information that facilitates efficient processing using text embedding models like `text-embedding-ada-002`.
 
-### Summary of Comparison (answers for Completion Model can be different from the notebook as the model returns different answer each time)
+### Summary of Comparison 
+(answers for Completion Model can be different from the notebook as the model returns different answer each time)
 
 ---
 
