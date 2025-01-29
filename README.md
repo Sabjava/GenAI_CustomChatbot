@@ -44,3 +44,7 @@ Answer 1 provides the correct definition, timeline (2023), purpose, and source f
 
 ### Conclusion:  
 Custom prompts significantly enhance OpenAI's model performance by delivering accurate, sourced, and contextually relevant answers, as opposed to the generic and occasionally incorrect responses generated without tailored prompts. This demonstrates the value of precise query construction for high-quality outputs.
+
+
+### **Acknowledgments**
+   I am grateful that I live in the era of Generative AI and that I was able to use tools such as chatGpt in this class. They provide me with extra time to learn and research. Thank you for the interesting course and assignmnets and for your hard work
