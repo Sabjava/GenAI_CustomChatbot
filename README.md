@@ -1,9 +1,6 @@
 # GenAI_CustomChatbot
-Udacity GenAI nanodegree project 2
 
-The chosen dataset consists of concise news articles focusing on advancements in generative AI, including breakthroughs in technologies like GPT models, their applications in education and business communication, and industry trends such as competition among AI companies. Each record is a self-contained text field, formatted with the year, a brief description of the news, and the source, ensuring clarity and relevance. This dataset is particularly appropriate for the task as it directly aligns with the focus on generative AI, covers diverse and credible topics, and provides well-structured information that facilitates efficient processing using text embedding models like `text-embedding-ada-002`. Its real-world context and factual nature make it ideal for both retrieving contextually relevant answers and comparing results from embedding-based custom queries with general knowledge-based completion models.
-
-The CustomChatBot project focused on developing an AI-powered chatbot tailored for specific user needs, optimizing interactions through customized prompts and responses. 
+The chosen dataset consists of the news articles focusing on advancements in generative AI, including breakthroughs in technologies like GPT models, their applications in education and business communication, and industry trends such as competition among AI companies. Each record is a self-contained text field, formatted with the year, a brief description of the news, and the source. This dataset is particularly appropriate for the task as it directly aligns with the focus on generative AI, covers diverse and credible topics, and provides well-structured information that facilitates efficient processing using text embedding models like `text-embedding-ada-002`.
 
 ### Summary of Comparison  
 
